@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+}
+#fora{
+    display: flex;
+    flex-direction: column-reverse;
+    height: 900px;
+}
+color:hsl(0,100%,50%);
+}
+.c2{
+  color:hsl(240,100%,50%);
+}
+.c3{
+  color:hsl(0,0%,100%);
+}
+.b1{
+  background-color:hsl(120,100%,50%);
+}
+.b2{
+  background-color:hsl(0,0%,50%);
+}
+.b3{
+  background-color:hsl(240,100%,50%);
+}
